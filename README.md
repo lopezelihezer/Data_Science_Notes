@@ -1,0 +1,1 @@
+We've touched MySQL using Sequal Ace, written some python, and on our way to learn about subqueries. Fun stuff!!
